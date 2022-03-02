@@ -1,4 +1,0 @@
-import json
-
-person = '{"testing": "works!"}'
-person_dict = json.loads(person)
